@@ -43,3 +43,9 @@ The `print_itemized_receipt()` function prints the details of the customer's ord
 1. Clone the repository:
    ```bash
    git clone https://github.com/RubenDguez/python-take-out-restaurant.git
+   ```
+
+2. Run 
+    ```bash
+    python3 order_system.py
+    ```
